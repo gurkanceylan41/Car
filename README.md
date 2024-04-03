@@ -4,4 +4,4 @@ CarRental, kullanıcıların çeşitli araçları kiralayabilecekleri bir çevri
 
 <h3>Ekran Gorunumu</h3>
 
-![](car.gif)
+![](Car.gif)
